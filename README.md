@@ -1,8 +1,11 @@
-# Homebrew Tap for NetInventory
+# Homebrew Tap for CyberChat
 
 ## Installation
 
 ```bash
-brew tap RamboRogers/netventory
-brew install netventory
+brew tap RamboRogers/cyberchat
+
+brew install cyberchat
+
+brew install --cask cyberchat-desktop
 ```
