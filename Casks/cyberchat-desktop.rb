@@ -3,12 +3,12 @@ cask "cyberchat-desktop" do
 
     on_arm do
       url "https://github.com/RamboRogers/cyberchat/releases/download/0.1.0a/CyberChat-0.1.0-a-arm64-mac.zip"
-      sha256 "5ad2dfd9106e5f880c212a0f4076590755d23d81e344873910c5664bb7aa1672" # Add the SHA256 of your arm64 zip file
+      sha256 "3c792d02e8278cd404e40f7c0d7ef6f613cd06808518ec525fbe1fc6fbd2dff0" # Add the SHA256 of your arm64 zip file
     end
 
     on_intel do
       url "https://github.com/RamboRogers/cyberchat/releases/download/0.1.0a/CyberChat-0.1.0-a-mac.zip"
-      sha256 "5b217324d50c6e7e02baaafb431cf45fc39413d39c80af4eb79340e08250c485" # Add the SHA256 of your intel zip file
+      sha256 "6224b5b940f04517f1a56fd533c6c9aa316b2c1b0b4af244087eb530fcccf9f5" # Add the SHA256 of your intel zip file
     end
 
     name "CyberChat"
